@@ -6,10 +6,4 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Models\Hive\" />
-    <Folder Include="Models\Treatment\" />
-    <Folder Include="Models\Products\" />
-  </ItemGroup>
-
 </Project>
