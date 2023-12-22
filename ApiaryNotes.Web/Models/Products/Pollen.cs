@@ -1,6 +1,6 @@
 ﻿namespace ApiaryNotes.Web.Models.Products
 {
-    public class Pollen
+    public class Pollen : BeeBread
     {
     }
 }

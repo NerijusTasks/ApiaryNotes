@@ -9,7 +9,7 @@ namespace ApiaryNotes.Web.Models.Hive
         public Guid HiveId { get; set; }
         public string Name { get; set; }
         public Guid ApiarySectionId { get; set; }
-        public ApiarySection ApiarySection { get; set; }
+        public ApiarySection ApiarySections { get; set; }
 
         public List<Note> Notes { get; set; }
         public List<BeeBread> BreadQuantity { get; set; }

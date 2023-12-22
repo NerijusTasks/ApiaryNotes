@@ -1,6 +1,6 @@
 ﻿namespace ApiaryNotes.Web.Models.Products
 {
-    public class Wax
+    public class Wax : BeeBread
     {
     }
 }
